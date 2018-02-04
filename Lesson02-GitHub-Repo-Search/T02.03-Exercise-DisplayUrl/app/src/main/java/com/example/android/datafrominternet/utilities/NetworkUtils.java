@@ -62,7 +62,7 @@ public class NetworkUtils {
             e.printStackTrace();
         }
 
-        return null;
+        return url;
     }
 
     /**
