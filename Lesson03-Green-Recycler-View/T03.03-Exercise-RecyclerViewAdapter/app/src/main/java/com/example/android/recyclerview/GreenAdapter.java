@@ -63,7 +63,7 @@ public class GreenAdapter extends RecyclerView.Adapter<GreenAdapter.NumberViewHo
     // DONE (7) Override onBindViewHolder
     // DONE (8) Within onBindViewHolder, call holder.bind and pass in the position
     @Override
-    public void onBindViewHOlder(NumberViewHolder holder, int position) {
+    public void onBindViewHolder(NumberViewHolder holder, int position) {
         holder.bind(position);
     }
 
